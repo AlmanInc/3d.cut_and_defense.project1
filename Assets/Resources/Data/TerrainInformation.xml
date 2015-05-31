@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Levels>
+		<Level Name="Level1">
+			<BasePlatform length="10">
+				<Size minWidth="36" maxWidth="36" minLength="100" maxLength="100" minHeight="1" maxHeight="1" />
+				<DistanceTo minLength="0" maxLength="0" minWidth="0" maxWidth="0" minHeight="0" maxHeight="0" />
+				<DistanceNext minLength="0" maxLength="0" minWidth="0" maxWidth="0" minHeight="0" maxHeight="0" />
+			</BasePlatform>
+		</Level>
+	
+		<Level Name = "Level2">
+			<BasePlatform length="10"/>
+		</Level>
+</Levels>

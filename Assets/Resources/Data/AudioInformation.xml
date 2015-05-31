@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Levels>
+		<Menu>
+			<Music basePath="AudioResources/Music/" delayForNext="0.5">
+				<Tracks count = "2" track1 = "MenuBg1" track2 = "MenuBg2" />
+			</Music>
+			<Sound></Sound>
+		</Menu>
+		
+		<Level Name="Level1">
+			<Music basePath="AudioResources/Music/" delayForNext="0.5">
+				<Tracks count = "1" track1="LevelMusic1" />
+			</Music>
+			<Sound></Sound>
+		</Level>
+</Levels>

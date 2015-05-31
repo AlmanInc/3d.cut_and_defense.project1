@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Camera InGameCameraMode="Classic">
+	<Classic dx="0" dy="8" dz="-9" rotationX="15" rotationY="0" rotationZ="0" dxScale="0.8"></Classic>
+</Camera>

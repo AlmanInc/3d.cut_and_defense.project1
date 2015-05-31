@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Engine\Configuration\ApplicationSettings.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Engine\Configuration\ApplicationSettings.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\Engine\Configuration\XmlDataHelper.cs" Line="24" Column="43" />
+      <File FileName="Assets\Scripts\Engine\Common\GameConstants.cs" Line="17" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

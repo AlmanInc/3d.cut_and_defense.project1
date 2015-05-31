@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Player>
+	<Unit Name = "Gerda">
+		<MoveToSide Speed="50"></MoveToSide>
+		<Jump Height="10" Speed="50"></Jump>
+	</Unit>
+</Player>
